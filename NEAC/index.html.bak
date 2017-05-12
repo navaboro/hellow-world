@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : OfficialWork 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20121012
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+
+
+<style type="text/css">
+@import "gallery.css";
+</style>
+
+<style>
+.fixed-ratio-resize { /* basic responsive img */
+        max-width: 100%;
+        height: auto;
+        width: auto\9; /* IE8 */
+}
+</style>
+
+
+
+<!-- CSS goes in the document HEAD or added to your external stylesheet -->
+<style type="text/css">
+table.gridtable {
+	font-family: 'Oswald', sans-serif;
+	font-size:14px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+</style>
+<!-- Table goes in the document BODY -->
+</head>
+<body>
+<div id="wrapper">
+			
+	<div id="header">
+				
+		<div id="logo">
+		<table align="left" width="100%" border="0">
+		<tr>
+			<td align="left"><img src="images/iitg_large.gif" width="120" height="120"</td>
+			<td align="center" valign="top"><h1>BEST 2017</h1>
+			<h3>First National Symposium on Retransforming Bhartiya Education,Science and Technology</h3> 
+			<h3>Indian Institute of Technology Guwahati, Assam</h3>
+			
+			</td>
+		</tr>
+		</table>
+		</div>
+	</div>
+
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li class="index.html"><a href="#">Home</a></li>
+			<li><a href="committee.html">Committee</a></li>
+			<li><a href="#">yyy</a></li>
+			<li><a href="#">zzz</a></li>
+			<li class="last"><a href="#">Contact</a></li>
+		</ul>
+	</div>
+	
+	
+	<div id="banner">
+	<img src="images/header.jpg" width="1000" height="300" alt="" />
+	</div>
+	<br>	
+	<div id="welcome">
+		<h3>Uttar-Purva Bharat - An unexplored region of the paradise</h3><br>
+		<div class="entry">
+			<p align="justify">Indian Institute of Technology (IIT) Guwahati is organizing the first national symposium on retransforming Bhartiya Education, Science and Technology (BEST 2017): Uttar-Purva Bharat - An unexplored region of the paradise during October 06 - 08, 2017. This is the first edition of this event and is being held in association with Gauhati University, North-East Regional Institute of Science and Technology (NERIST) and NGOs like Bhartiya Shikshan Mandal, Pratham, Barefoot College-India etc. We expect about 400 participants from academia, industries and organizations involved in education for masses. A large number of student delegates is also expected to participate in this event. This symposium is the inaugural annual PAN-India event to enhance and enrich young minds to get involved in more and more value added research as  per the need of our country and to preserve and inculcate our traditions, art and culture.</p>
+			<p align="justify">The convergence of technology with modern life has reached a state where dependence of human life on technology is ubiquitous. Today technology is poised to look beyond its traditional bastions of application with pervasive impact on healthcare, environment, energy, transportation, and disaster management. This has generated immense dependency of industry and society on various technologies. India is already playing a major role in the area of technology as a user and, is stepping ahead to become self-reliant and leader by making more and more indigenous products. Many government and private organizations are working hard to fulfill India's dream of Make-in-India. Therefore the need of indigenous technology development has taken the center-stage. In order to achieve this goal, we have to know precisely the need of the masses, their culture, arts and traditions. This is only possible when science and technology fuses correctly with traditions, art and culture of people. Therefore, re-evolution of Indian education systems like Nalanda, Takshshila as per the present context is the need of hour.</p>
+			<p align="justify">In this regard, first time a national symposium with the themes Traditions and faiths, Languages and Literature, Folklore, Economic Issues (Trade, Commerce, Agriculture etc.), Science and Technology, Literacy in Education, Anthropological and Demographic Issues, and History, Legend and Mythology is going to be organized in the Uttar-Purva region of India.</p>
+			<p align="justify">In this edition, special emphasis is given to Uttar-Purva Bharat because of its diversity in languages, arts, cultures and traditions, and its influence on ASEAN countries. Hence, initiation and organization of BEST 2017 in Uttar-Purva has special significance for the following reasons - creating awareness of Uttar-Purva among participants from abroad and other parts of India, and providing an opportunity to the researchers, academia, industries and student community of this region to interact and exchange ideas with experts from all over the world. Such interactions will facilitate better understanding not only about technological developments across the globe amongst the peers but also help them to understand traditions, cultures and values of Uttar-Purva Bharat.</p>
+
+		</div>
+	</div>
+
+
+	<div id="three-columns">
+		<div id="column1">
+			<h3>Topic/topics to be covered</h3>
+			<ul>
+				<li><p align="justify">Talks on different topics related with Education, Research and Technology Development as per the needs of country</p></li>
+				<li><p align="justify">Paper presentation on various topics as per the theme of the conference</p></li>
+				<li><p align="justify">Keynote lectures and plenary talks on various technical topics by eminent professors and researchers</p></li>
+				<li><p align="justify">Industry exhibition by various industries</p></li>
+			</ul>
+		</div>
+		
+		<div id="column2">
+			<h3>Sub-Themes of the symposium</h3>
+			<ul>
+				<li><p align="justify">Traditions and faiths</p></li>
+				<li><p align="justify">Languages and Literature</p></li>
+				<li><p align="justify">Folklore</p></li>
+				<li><p align="justify">Economic Issues (Trade, Commerce, Agriculture etc.)</p></li>
+				<li><p align="justify">Science and Technology</p></li>
+				<li><p align="justify">Literacy in Education</p></li>
+				<li><p align="justify">Anthropological and Demographic Issues</p></li>
+				<li><p align="justify">History, Legend and Mythology</p></li>
+
+		</div>
+		<div id="column3">
+			
+		</div>
+	
+	</div>
+	
+	<br>
+	<div id="welcome">
+		<h3>Tentative date-wise schedule</h3><br>
+		<div class="entry">
+			<table class="gridtable" align="center" width="100%">
+				<tr><th>Date</th><th>Activity</th></tr>
+				<tr><td>06 October 2017</td><td>Inauguration and Keynote Speech</td></tr>
+				<tr><td>07 October 2017</td><td>Invited Talks and Paper Presentations</td></tr>
+				<tr><td>08 October 2017</td><td>Invited Talks, Paper Presentations and Valedictory Function</td></tr>
+			</table>
+		</div>
+	</div>
+	
+	<div id="two-columns">
+		<div id="col1">
+		<p>Dummy text</p>	
+		</div>
+		<div id="col2"><img src="images/" alt="" width="320" height="260" class="image-style" /> </div>
+	</div>
+	<!-- end #page --> 
+
+
+
+</div>
+<div id="footer">
+	<p>&copy; Design by CSE, IITG</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>
+
+			
